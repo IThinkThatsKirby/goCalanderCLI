@@ -1,2 +1,2 @@
-# goCalanderCLI
+# goCalenderCLI
 CLI calendar. 
